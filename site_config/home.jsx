@@ -3,8 +3,8 @@ import React from 'react';
 export default {
   'zh-cn': {
     brand: {
-      brandName: '开源产品品牌名称',
-      briefIntroduction: '关于开源产品的简单介绍',
+      brandName: 'Alita',
+      briefIntroduction: '基于spring-boot、spring-cloud、spring-cloud-alibaba 的前后端分离的企业级微服务敏捷开发系统架构',
       buttons: [
         {
           text: '立即开始',
@@ -13,7 +13,7 @@ export default {
         },
         {
           text: '查看Github',
-          link: '',
+          link: 'https://github.com/KeRan213539/alita',
           type: 'normal',
         },
       ],
@@ -21,7 +21,7 @@ export default {
     introduction: {
       title: '开源产品的介绍',
       desc: '开源产品的简单介绍，提供一些该产品的优点、特性描述等',
-      img: '/img/architecture.png',
+      //img: '/img/architecture.png',
     },
     features: {
       title: '特性一览',
@@ -71,29 +71,14 @@ export default {
       title: '用户',
       desc: <span>简单描述</span>,
       list: [
-        '/img/users_alibaba.png',
-        '/img/users_alibaba.png',
-        '/img/users_alibaba.png',
-        '/img/users_alibaba.png',
-        '/img/users_alibaba.png',
-        '/img/users_alibaba.png',
-        '/img/users_alibaba.png',
-        '/img/users_alibaba.png',
-        '/img/users_alibaba.png',
-        '/img/users_alibaba.png',
-        '/img/users_alibaba.png',
-        '/img/users_alibaba.png',
-        '/img/users_alibaba.png',
-        '/img/users_alibaba.png',
-        '/img/users_alibaba.png',
-        '/img/users_alibaba.png',
+        //'/img/users_alibaba.png',
       ],
     },
   },
   'en-us': {
     brand: {
-      brandName: 'brandName',
-      briefIntroduction: 'some description of product',
+      brandName: 'Alita',
+      briefIntroduction: 'Enterprise-level agile development system architecture of micro-services based on spring-boot、spring-cloud、spring-cloud-alibaba front-end and back-end separation',
       buttons: [
         {
           text: 'Quick Start',
@@ -102,7 +87,7 @@ export default {
         },
         {
           text: 'View on Github',
-          link: '',
+          link: 'https://github.com/KeRan213539/alita',
           type: 'normal',
         },
       ],
@@ -110,7 +95,7 @@ export default {
     introduction: {
       title: 'introduction title',
       desc: 'some introduction of your product',
-      img: '/img/architecture.png',
+      //img: '/img/architecture.png',
     },
     features: {
       title: 'Feature List',
@@ -160,22 +145,7 @@ export default {
       title: 'users',
       desc: <span>some description</span>,
       list: [
-        '/img/users_alibaba.png',
-        '/img/users_alibaba.png',
-        '/img/users_alibaba.png',
-        '/img/users_alibaba.png',
-        '/img/users_alibaba.png',
-        '/img/users_alibaba.png',
-        '/img/users_alibaba.png',
-        '/img/users_alibaba.png',
-        '/img/users_alibaba.png',
-        '/img/users_alibaba.png',
-        '/img/users_alibaba.png',
-        '/img/users_alibaba.png',
-        '/img/users_alibaba.png',
-        '/img/users_alibaba.png',
-        '/img/users_alibaba.png',
-        '/img/users_alibaba.png',
+        //'/img/users_alibaba.png',
       ],
     },
   },
